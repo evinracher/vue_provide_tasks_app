@@ -2,7 +2,7 @@
 
 A simple Vue.js app using provide
 
-Deployed in: https://evinracher-vue-tasks-app.netlify.app/
+Deployed on: https://evinracher-vue-tasks-app.netlify.app/
 
 ## Project setup
 ```
