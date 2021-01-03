@@ -1,5 +1,9 @@
 # task_provide_app
 
+A simple Vue.js app using provide
+
+Deployed in: 
+
 ## Project setup
 ```
 npm install
